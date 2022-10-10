@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-color: rgb(249, 242, 234);
+}
+
+.container{
+    background-color: rgb(131, 5, 5);
+    padding: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font: weight 10px;
+    margin-bottom: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+.image{
+  padding-left: 38%;
+  padding-right:52%
+    }
+
+img{ 
+    width: 400px;
+    clip-path: circle();
+   
+    margin-bottom: 50px;
+    
+
+}
+
+.display{
+    background-color:rgb(235, 230, 230);
+    text-align: center;
+    padding: 15px;
+    margin-left: 44%;
+    margin-right: 44%;
+  
+    text-align: center;
+    border: 3px solid rgb(237, 42, 42) ;
+    margin-bottom: 50px;
+
+   
+
+}
+
+.butt1{
+
+    margin-bottom: 30px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+    padding-left: 100px;
+    padding-right:100px ;
+    font-size: 15px;
+    background-color: rgb(201, 42, 42);
+    color: #fff;
+    border:rgb(201, 42, 42);
+    cursor: pointer;
+
+    
+
+}
+
+.butt1:hover{
+box-shadow: 5px 5px 20px rgb(201, 42, 42);
+    
+}
+
+.butt1:active{
+    opacity: 0.8px;
+}
+
+
+.butt2{
+
+    margin-bottom: 30px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+    padding-left: 100px;
+    padding-right:100px ;
+    font-size: 15px;
+    background-color: rgb(247, 242, 242);
+    color: solid black;
+    border: 2px solid rgb(250, 159, 159);
+    cursor: pointer;
+
+    
+
+}
+
+.butt2:hover{
+box-shadow: 8px 8px 20px rgb(237, 117, 117);
+border: none;
+    
+}
+
+.butt2:active{
+    opacity: 0.8px;
+}
+
+.block{
+    background-color: rgb(131, 5, 5) ;
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+
+ }
+
+
+.net{
+    color: #fff;
+
+}
+.youtube{
+    margin-right: 15px;
+    margin-left: 15px;
+    color: #fff;
+
+}
+.insta{
+    color: #fff;
+
+}
